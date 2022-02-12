@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Wechat-TJ/Wechat-TJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 定位：一个励志推荐10000款开源项目与工具的程序员
 - 💬 持续更新...
 
--->
+
 
